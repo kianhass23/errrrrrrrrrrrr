@@ -61,4 +61,4 @@ async def ping(ctx):
 
 # Run the client on the server
 
-client.run(os.environ['token'])
+client.run(os.environ['ODE5MTA5OTUxNTgxNDU0MzU2.YEh1lg.i-DxAuLKtpIoLZXlbhmtioS-TY0'])
